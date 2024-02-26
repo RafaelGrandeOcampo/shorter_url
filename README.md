@@ -8,7 +8,7 @@ Este es un proyecto simple que utiliza Streamlit y Pyshorteners para crear un ac
 1. Clona este repositorio:
 
 \`\`\`bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
+git clone https://github.com/RafaelGrandeOcampo/shorter_url.git
 \`\`\`
 
 2. Navega hasta el directorio del proyecto:
@@ -47,7 +47,4 @@ streamlit run main.py
 
 ¡Las contribuciones son bienvenidas! Si encuentras algún problema o tienes alguna sugerencia, no dudes en abrir un problema o enviar una solicitud de extracción.
 
-## Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo \`LICENSE\` para obtener más información.
-EOF
